@@ -6,5 +6,7 @@ to run the project follow the steps below
 #
 2 - > restore nuget packages
 #
-3 - >browse api call @https://localhost:44310/swagger
+3 - > Run the application by pressing F5
+#
+4 - >browse api call @https://localhost:44310/swagger
 
