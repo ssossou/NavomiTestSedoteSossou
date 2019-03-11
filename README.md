@@ -1,6 +1,7 @@
 # NavomiTestSedoteSossou
 test
 to run the project follow the steps below
+#
 1 - install net core
 #
 2 - > restore nuget packages
