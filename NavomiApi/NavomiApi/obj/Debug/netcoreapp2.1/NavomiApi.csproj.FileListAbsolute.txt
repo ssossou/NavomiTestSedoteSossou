@@ -1,0 +1,14 @@
+C:\Projects\Navomi\NavomiApi\NavomiApi\bin\Debug\netcoreapp2.1\NavomiApi.deps.json
+C:\Projects\Navomi\NavomiApi\NavomiApi\bin\Debug\netcoreapp2.1\NavomiApi.runtimeconfig.json
+C:\Projects\Navomi\NavomiApi\NavomiApi\bin\Debug\netcoreapp2.1\NavomiApi.runtimeconfig.dev.json
+C:\Projects\Navomi\NavomiApi\NavomiApi\bin\Debug\netcoreapp2.1\NavomiApi.dll
+C:\Projects\Navomi\NavomiApi\NavomiApi\obj\Debug\netcoreapp2.1\NavomiApi.csproj.CoreCompileInputs.cache
+C:\Projects\Navomi\NavomiApi\NavomiApi\obj\Debug\netcoreapp2.1\NavomiApi.RazorAssemblyInfo.cache
+C:\Projects\Navomi\NavomiApi\NavomiApi\obj\Debug\netcoreapp2.1\NavomiApi.RazorAssemblyInfo.cs
+C:\Projects\Navomi\NavomiApi\NavomiApi\obj\Debug\netcoreapp2.1\NavomiApi.AssemblyInfoInputs.cache
+C:\Projects\Navomi\NavomiApi\NavomiApi\obj\Debug\netcoreapp2.1\NavomiApi.AssemblyInfo.cs
+C:\Projects\Navomi\NavomiApi\NavomiApi\obj\Debug\netcoreapp2.1\NavomiApi.RazorTargetAssemblyInfo.cache
+C:\Projects\Navomi\NavomiApi\NavomiApi\bin\Debug\netcoreapp2.1\NavomiApi.pdb
+C:\Projects\Navomi\NavomiApi\NavomiApi\obj\Debug\netcoreapp2.1\NavomiApi.dll
+C:\Projects\Navomi\NavomiApi\NavomiApi\obj\Debug\netcoreapp2.1\NavomiApi.pdb
+C:\Projects\Navomi\NavomiApi\NavomiApi\obj\Debug\netcoreapp2.1\NavomiApi.csprojAssemblyReference.cache
